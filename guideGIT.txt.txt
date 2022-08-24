@@ -1,0 +1,26 @@
+=========clone=====
+git clone git@github.com:ckan719/fe-blog-dd4u.git
+========push====
+di chuyen
+- git add <ten file>
+- git commit -m "comment"
+- git push
+======Tao nhanh moi======
+- git checkout -b tennhanh      #feature/tennhanh
+======chuyen nhanh=======
+- git switch tennhanh
+- git checkout tennhanh
++ sua code roi
+- git switch -f tennhanh
+=========status======
+git status
++ git add new.txt
++ git status
+
+=======pull====
++ chuyen nhanh lay code moi nhat cua nhanh do ve
+- git pull
+
+==========git gui======
+di chuyen thu muc du an
+- git gui 
